@@ -14,6 +14,14 @@ git clone git@github.com:germandcorrea/web2018-laravel.git
 cd web2018-laravel
 ```
 
+### Descargar Dependencias del Proyecto
+
+Como las dependencias del proyecto las maneja **composer** debemos ejecutar el comando:
+
+```bash
+composer install
+```
+
 ### Configurar Entorno
 
 La configuración del entorno se hace en el archivo **.env** pero esé archivo no se puede versionar según las restricciones del archivo **.gitignore**, igualmente en el proyecto hay un archivo de ejemplo  **.env.example** debemos copiarlo con el siguiente comando:
@@ -28,14 +36,6 @@ Luego es necesario modificar los valores de las variables de entorno para adecua
 
 ```bash
 php artisan key:generate
-```
-
-### Descargar Dependencias del Proyecto
-
-Como las dependencias del proyecto las maneja **composer** debemos ejecutar el comando:
-
-```bash
-composer install
 ```
 
 ### Migrar la Base de Datos
