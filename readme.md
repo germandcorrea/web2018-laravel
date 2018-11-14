@@ -2,6 +2,18 @@
 
 ## Trabajar con un Proyecto Compartido
 
+### Clonar el Repositorio de git
+
+```bash
+git clone git@github.com:germandcorrea/web2018-laravel.git
+```
+
+### Moverse al directorio del proyecto
+
+```bash
+cd web2018-laravel
+```
+
 ### Configurar Entorno
 
 La configuración del entorno se hace en el archivo **.env** pero esé archivo no se puede versionar según las restricciones del archivo **.gitignore**, igualmente en el proyecto hay un archivo de ejemplo  **.env.example** debemos copiarlo con el siguiente comando:
