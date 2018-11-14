@@ -1,5 +1,14 @@
 # Ejemplo de Proyectos en Laravel 5.5
 
+## Documentación
+
+- [Traducción de la documentación oficial](https://docs.laraveles.com/docs/5.5)
+  - [Autenticación](https://docs.laraveles.com/docs/5.5/authentication)
+  - [Migraciones](https://docs.laraveles.com/docs/5.5/migrations)
+  - [Eloquent](https://docs.laraveles.com/docs/5./eloquent)
+  - [Relaciones](https://docs.laraveles.com/docs/5./eloquent-relationships)
+  - [Seeders](https://docs.laraveles.com/docs/5.5/seeding)
+
 ## Trabajar con un Proyecto Compartido
 
 ### Clonar el Repositorio de git
