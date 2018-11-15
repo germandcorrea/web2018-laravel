@@ -14,7 +14,7 @@
 ### Clonar el Repositorio de git
 
 ```bash
-git clone git@github.com:germandcorrea/web2018-laravel.git
+git clone https://github.com/germandcorrea/web2018-laravel.git
 ```
 
 ### Moverse al directorio del proyecto
